@@ -1,0 +1,3 @@
+[submodule "JOBMAA_scrapper"]
+	path = JOBMAA_scrapper
+	url = https://github.com/lgcavalheiro/JOBMAA_scrapper
