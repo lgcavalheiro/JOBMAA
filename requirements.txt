@@ -1,0 +1,4 @@
+scrapy
+nltk
+pylint
+autopep8
