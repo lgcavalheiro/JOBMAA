@@ -1,4 +1,7 @@
 scrapy
 nltk
+spacy
+pandas
+psycopg2-binary
 pylint
 autopep8
